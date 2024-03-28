@@ -8,19 +8,6 @@ You’ll start by editing your microservice README.
 
 ---
 
-## Custom content 
-
-Copy & Paste the content of this repo in your new project
-
-1. Search for **'microservice'** and replace it with the **name** of the microservice
-2. Maybe you'll need to change some files like 'DummyApi' to your microservice name.
-3. Replace dummy content with your content
-4. Ask in slack for adding the needed configuration in kubernetes  
-5. Make a Pull Request
-7. If behaviour tests are ok, your branch will be promoted to production and then merged.
-
----
-
 ## The code
 
 Next, you’ll need to understand the main rules of the code
